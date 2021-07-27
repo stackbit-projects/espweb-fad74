@@ -6,7 +6,7 @@
     "base_font": "fraunces",
     "header": {
         "logo": "/images/DESIGN.svg",
-        "logo_alt": "Agency logo",
+        "logo_alt": "How to web design",
         "has_nav": true,
         "nav_links": [
             {
