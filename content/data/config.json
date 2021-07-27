@@ -2,7 +2,7 @@
     "title": "Stackbit Agency Theme",
     "path_prefix": "/",
     "color_scheme": "light",
-    "accent_color": "blue",
+    "accent_color": "violet",
     "base_font": "fraunces",
     "header": {
         "logo": "/images/DESIGN.svg",
