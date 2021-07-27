@@ -70,5 +70,6 @@
             }
         ]
     },
-    "domain": "https://espweb-fad74.netlify.app"
+    "domain": "https://espweb-fad74.netlify.app",
+    "favicon": "/images/DESIGN Web design.svg"
 }
